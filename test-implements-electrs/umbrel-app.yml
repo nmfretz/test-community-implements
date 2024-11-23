@@ -1,7 +1,7 @@
 manifestVersion: 1.1
-id: electrs
+id: test-implements-electrs
 category: bitcoin
-name: Electrs
+name: Electrs Test
 version: "0.10.6"
 tagline: A simple and efficient Electrum Server
 description: >

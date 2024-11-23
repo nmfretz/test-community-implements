@@ -1,9 +1,9 @@
 manifestVersion: 1.1
-id: fulcrum
+id: test-implements-fulcrum
 implements:
   - electrs
 category: bitcoin
-name: Fulcrum
+name: Fulcrum Test
 version: "1.11.1-swappable.2"
 tagline: A fast and nimble Electrum Server
 description: >-
